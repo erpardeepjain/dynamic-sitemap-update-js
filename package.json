@@ -1,0 +1,17 @@
+{
+    "name": "dynamic-sitemap",
+    "version": "1.0.0",
+    "description": "Create Dynamic Sitemap file using JS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "update": "node sitemap-update.js"
+    },
+    "author": "Pardeep Jain",
+    "license": "ISC",
+    "dependencies": {
+        "moment": "2.24.0",
+        "node-fetch": "2.6.0",
+        "xml-js": "1.6.11"
+    }
+}
