@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "update": "node sitemap-update.js"
+        "sitemap": "node sitemap-update.js"
     },
     "author": "Pardeep Jain",
     "license": "ISC",
