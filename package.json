@@ -10,7 +10,7 @@
     "author": "Pardeep Jain",
     "license": "ISC",
     "dependencies": {
-        "moment": "2.24.0",
+        "moment": "2.29.4",
         "node-fetch": "2.6.1",
         "xml-js": "1.6.11"
     }
